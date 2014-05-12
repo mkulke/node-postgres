@@ -23,7 +23,7 @@
     "pgpass": "0.0.3",
     "nan": "~0.6.0",
     "packet-reader": "0.2.0",
-    "pg-types": "http://github.com/brianc/node-postgres/tarball/master"
+    "pg-types": "http://github.com/brianc/node-pg-types/tarball/master"
   },
   "devDependencies": {
     "jshint": "1.1.0",
